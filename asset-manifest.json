@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/indio-parents/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/indio-parents/static/js/main.810c4583.chunk.js",
+    "main.js.map": "/indio-parents/static/js/main.810c4583.chunk.js.map",
+    "runtime-main.js": "/indio-parents/static/js/runtime-main.9312c255.js",
+    "runtime-main.js.map": "/indio-parents/static/js/runtime-main.9312c255.js.map",
+    "static/js/2.0113b2a8.chunk.js": "/indio-parents/static/js/2.0113b2a8.chunk.js",
+    "static/js/2.0113b2a8.chunk.js.map": "/indio-parents/static/js/2.0113b2a8.chunk.js.map",
+    "index.html": "/indio-parents/index.html",
+    "precache-manifest.dd89cc7ac65ac05ffcd5fe60e1befe76.js": "/indio-parents/precache-manifest.dd89cc7ac65ac05ffcd5fe60e1befe76.js",
+    "service-worker.js": "/indio-parents/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/indio-parents/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.0113b2a8.chunk.js.LICENSE.txt": "/indio-parents/static/js/2.0113b2a8.chunk.js.LICENSE.txt",
+    "static/media/beetle.png": "/indio-parents/static/media/beetle.afd949cf.png",
+    "static/media/bg.png": "/indio-parents/static/media/bg.aabbb913.png",
+    "static/media/episode.png": "/indio-parents/static/media/episode.ec9a64ae.png",
+    "static/media/exhibit.png": "/indio-parents/static/media/exhibit.b7f863df.png",
+    "static/media/skeleton.png": "/indio-parents/static/media/skeleton.42892b7f.png",
+    "static/media/title.png": "/indio-parents/static/media/title.8c61371e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9312c255.js",
+    "static/js/2.0113b2a8.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.810c4583.chunk.js"
+  ]
+}
